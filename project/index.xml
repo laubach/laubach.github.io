@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zach Laubach</title>
+    <link>laubach.github.io/project/</link>
+      <atom:link href="laubach.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/laubach.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>laubach.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Toxoplasma gondii infection in spotted hyenas</title>
+      <link>laubach.github.io/project/internal-project/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Here, I proposed to address two broad goals in this Morris Animal Foundation supported study, which included characterizing the epidemiology of &lt;em&gt;T. gondii&lt;/em&gt; prevalence in the Masai Mara ecosystem (Kenya, Africa), and exploring the effects of infection on host behavior and health. I proposed to test five hypotheses related to these broader goals by focusing on spotted hyenas (Crocuta Crocuta) and using extensive demographic and behavioral data, as well as ecological and anthropogenic disturbance measurements from our 30+ years long Mara Hyena Project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mara Hyena Project</title>
+      <link>laubach.github.io/project/toxoplasma/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/toxoplasma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
