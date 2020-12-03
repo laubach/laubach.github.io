@@ -75,10 +75,26 @@
     </item>
     
     <item>
+      <title>A biologist’s guide to model selection and causal inference</title>
+      <link>laubach.github.io/publication/causal_inference/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/publication/causal_inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toxoplasma gondii infections are associated with boldness towards lions in wild hyena hosts</title>
-      <link>laubach.github.io/publication/preprint/</link>
+      <link>laubach.github.io/publication/t_gondii_boldness/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>laubach.github.io/publication/preprint/</guid>
+      <guid>laubach.github.io/publication/t_gondii_boldness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations of early social experience with offspring DNA methylation and later life stress phenotype</title>
+      <link>laubach.github.io/publication/early_life_soc_dna_meth_cort_hy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/publication/early_life_soc_dna_meth_cort_hy/</guid>
       <description></description>
     </item>
     
@@ -91,11 +107,20 @@
     </item>
     
     <item>
-      <title>Toxoplasma gondii infection in spotted hyenas</title>
-      <link>laubach.github.io/project/internal-project/</link>
+      <title>Health and fitness consequences of early life experience</title>
+      <link>laubach.github.io/project/early_life_experience/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>laubach.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Here, I proposed to address two broad goals in this Morris Animal Foundation supported study, which included characterizing the epidemiology of &lt;em&gt;T. gondii&lt;/em&gt; prevalence in the Masai Mara ecosystem (Kenya, Africa), and exploring the effects of infection on host behavior and health. I proposed to test five hypotheses related to these broader goals by focusing on spotted hyenas (Crocuta Crocuta) and using extensive demographic and behavioral data, as well as ecological and anthropogenic disturbance measurements from our 30+ years long Mara Hyena Project.&lt;/p&gt;
+      <guid>laubach.github.io/project/early_life_experience/</guid>
+      <description>&lt;p&gt;In hyenas, humans and birds, my collaborators and I use life course models to test hypotheses about how the type and timing of early life social expereinces &amp;lsquo;get under an organism&amp;rsquo;s skin&amp;rsquo;. In particular we are investigating the molecular mechanisms that link social experience with development of persistent future phenotypes. Ulitmately, we are interested in the fitness consequences of these social experiences, and if these relationships are generalizeable across diverse taxa. Investigating these questions rely on collaborations and use of invaluable long-term data on spotted hyenas (The Mara Hyena Project), humans (Project Viva), and barn swallows (Safran Lab Barn Swallow Project).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toxoplasma gondii infection in spotted hyenas</title>
+      <link>laubach.github.io/project/toxo_gondii/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/toxo_gondii/</guid>
+      <description>&lt;p&gt;Here we proposed to address two broad goals in this Morris Animal Foundation supported study, which included characterizing the epidemiology of &lt;em&gt;T. gondii&lt;/em&gt; prevalence in the Masai Mara ecosystem (Kenya, Africa), and exploring the effects of infection on host behavior, hormones and fitness. We are testing hypotheses related to these broader goals by focusing on spotted hyenas (&lt;em&gt;Crocuta crocuta&lt;/em&gt;) and using extensive demographic and behavioral data, as well as ecological and anthropogenic disturbance measurements from our 30+ years long Mara Hyena Project.&lt;/p&gt;
 </description>
     </item>
     
@@ -127,7 +152,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-897653124&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-645329781&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -137,7 +162,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-897653124&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-645329781&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -545,6 +570,14 @@ Three
     </item>
     
     <item>
+      <title>Epigenetics and the maintenance of developmental plasticity: extending the signalling theory framework</title>
+      <link>laubach.github.io/publication/laubach_et_al_bio_rev_2018/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/publication/laubach_et_al_bio_rev_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>laubach.github.io/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
@@ -579,9 +612,9 @@ Three
     
     <item>
       <title>Mara Hyena Project</title>
-      <link>laubach.github.io/project/toxoplasma/</link>
+      <link>laubach.github.io/project/mhp/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>laubach.github.io/project/toxoplasma/</guid>
+      <guid>laubach.github.io/project/mhp/</guid>
       <description></description>
     </item>
     
