@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zach Laubach</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://laubach.github.io/</link>
+      <atom:link href="https://laubach.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zach Laubach</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://laubach.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Zach Laubach</title>
-      <link>http://localhost:4321/</link>
+      <link>https://laubach.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:4321/event/example/</link>
+      <link>https://laubach.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/event/example/</guid>
+      <guid>https://laubach.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,33 +35,33 @@
     
     <item>
       <title>Mara Hyena Project (est. 1988)</title>
-      <link>http://localhost:4321/project/mhp/</link>
+      <link>https://laubach.github.io/project/mhp/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/mhp/</guid>
+      <guid>https://laubach.github.io/project/mhp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:4321/projects/</link>
+      <link>https://laubach.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/</guid>
+      <guid>https://laubach.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:4321/research/</link>
+      <link>https://laubach.github.io/research/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/</guid>
+      <guid>https://laubach.github.io/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:4321/post_not_using/get-started/</link>
+      <link>https://laubach.github.io/post_not_using/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post_not_using/get-started/</guid>
+      <guid>https://laubach.github.io/post_not_using/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -145,33 +145,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:4321/project_orig/pandas/</link>
+      <link>https://laubach.github.io/project_orig/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project_orig/pandas/</guid>
+      <guid>https://laubach.github.io/project_orig/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:4321/project_orig/pytorch/</link>
+      <link>https://laubach.github.io/project_orig/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project_orig/pytorch/</guid>
+      <guid>https://laubach.github.io/project_orig/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:4321/project_orig/scikit/</link>
+      <link>https://laubach.github.io/project_orig/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project_orig/scikit/</guid>
+      <guid>https://laubach.github.io/project_orig/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:4321/post_not_using/second-brain/</link>
+      <link>https://laubach.github.io/post_not_using/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post_not_using/second-brain/</guid>
+      <guid>https://laubach.github.io/post_not_using/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -273,9 +273,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:4321/post_not_using/data-visualization/</link>
+      <link>https://laubach.github.io/post_not_using/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post_not_using/data-visualization/</guid>
+      <guid>https://laubach.github.io/post_not_using/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -286,7 +286,7 @@
 
 
 
-&lt;div id=&#34;chart-794632851&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-643827951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -304,7 +304,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-794632851&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-643827951&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -479,9 +479,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:4321/post_not_using/teach-courses/</link>
+      <link>https://laubach.github.io/post_not_using/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post_not_using/teach-courses/</guid>
+      <guid>https://laubach.github.io/post_not_using/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -534,7 +534,7 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/post_not_using/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://laubach.github.io/post_not_using/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -595,17 +595,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/experience_not_using/</link>
+      <link>https://laubach.github.io/experience_not_using/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/experience_not_using/</guid>
+      <guid>https://laubach.github.io/experience_not_using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:4321/teaching_orig/js/</link>
+      <link>https://laubach.github.io/teaching_orig/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_orig/js/</guid>
+      <guid>https://laubach.github.io/teaching_orig/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -652,7 +652,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching_orig/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://laubach.github.io/teaching_orig/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -729,9 +729,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:4321/teaching_orig/python/</link>
+      <link>https://laubach.github.io/teaching_orig/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_orig/python/</guid>
+      <guid>https://laubach.github.io/teaching_orig/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -778,7 +778,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching_orig/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://laubach.github.io/teaching_orig/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -855,9 +855,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:4321/post_not_using/project-management/</link>
+      <link>https://laubach.github.io/post_not_using/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post_not_using/project-management/</guid>
+      <guid>https://laubach.github.io/post_not_using/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -930,25 +930,25 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Early-life social experience affects offspring DNA methylation and later life stress phenotype</title>
-      <link>http://localhost:4321/publication/early_life_soc_dna_meth_cort_hy/</link>
+      <link>https://laubach.github.io/publication/early_life_soc_dna_meth_cort_hy/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/early_life_soc_dna_meth_cort_hy/</guid>
+      <guid>https://laubach.github.io/publication/early_life_soc_dna_meth_cort_hy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biologist’s guide to model selection and causal inference</title>
-      <link>http://localhost:4321/publication/causal_inference/</link>
+      <link>https://laubach.github.io/publication/causal_inference/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/causal_inference/</guid>
+      <guid>https://laubach.github.io/publication/causal_inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post_not_using/2020-12-01-r-rmarkdown/</link>
+      <link>https://laubach.github.io/post_not_using/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post_not_using/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://laubach.github.io/post_not_using/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -979,7 +979,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:4321/post_not_using/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://laubach.github.io/post_not_using/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -987,44 +987,44 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Toxoplasma gondii infections are associated with boldness towards lions in wild hyena hosts</title>
-      <link>http://localhost:4321/publication/t_gondii_boldness/</link>
+      <link>https://laubach.github.io/publication/t_gondii_boldness/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/t_gondii_boldness/</guid>
+      <guid>https://laubach.github.io/publication/t_gondii_boldness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early life social and ecological determinants of global DNA methylation in wild spotted hyenas</title>
-      <link>http://localhost:4321/publication/laubach_et_al_mec_2019/</link>
+      <link>https://laubach.github.io/publication/laubach_et_al_mec_2019/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/laubach_et_al_mec_2019/</guid>
+      <guid>https://laubach.github.io/publication/laubach_et_al_mec_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health and fitness consequences of early life experience</title>
-      <link>http://localhost:4321/project/early_life_experience/</link>
+      <link>https://laubach.github.io/project/early_life_experience/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/early_life_experience/</guid>
+      <guid>https://laubach.github.io/project/early_life_experience/</guid>
       <description>&lt;p&gt;In hyenas, humans and birds, my collaborators and I use life course models to test hypotheses about how the type and timing of early life social expereinces &amp;lsquo;get under an organism&amp;rsquo;s skin&amp;rsquo;. In particular we are investigating the molecular mechanisms that link social experience with development of persistent future phenotypes. Ulitmately, we are interested in the fitness consequences of these social experiences, and if these relationships are generalizeable across diverse taxa. Investigating these questions rely on collaborations and use of invaluable long-term data on spotted hyenas (The Mara Hyena Project), humans (Project Viva), and barn swallows (Safran Lab Barn Swallow Project).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Toxoplasma gondii infection in spotted hyenas</title>
-      <link>http://localhost:4321/project/toxo_gondii/</link>
+      <link>https://laubach.github.io/project/toxo_gondii/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/toxo_gondii/</guid>
+      <guid>https://laubach.github.io/project/toxo_gondii/</guid>
       <description>&lt;p&gt;Here we proposed to address two broad goals in this Morris Animal Foundation supported study, which included characterizing the epidemiology of &lt;em&gt;T. gondii&lt;/em&gt; prevalence in the Masai Mara ecosystem (Kenya, Africa), and exploring the effects of infection on host behavior, hormones and fitness. We are testing hypotheses related to these broader goals by focusing on spotted hyenas (&lt;em&gt;Crocuta crocuta&lt;/em&gt;) and using extensive demographic and behavioral data, as well as ecological and anthropogenic disturbance measurements from our 30+ years long Mara Hyena Project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:4321/publication_orig/preprint/</link>
+      <link>https://laubach.github.io/publication_orig/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication_orig/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:4321/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://laubach.github.io/publication_orig/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://laubach.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1037,17 +1037,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Epigenetics and the maintenance of developmental plasticity: extending the signalling theory framework</title>
-      <link>http://localhost:4321/publication/laubach_et_al_bio_rev_2018/</link>
+      <link>https://laubach.github.io/publication/laubach_et_al_bio_rev_2018/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/laubach_et_al_bio_rev_2018/</guid>
+      <guid>https://laubach.github.io/publication/laubach_et_al_bio_rev_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:4321/publication_orig/journal-article/</link>
+      <link>https://laubach.github.io/publication_orig/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication_orig/journal-article/</guid>
+      <guid>https://laubach.github.io/publication_orig/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1066,9 +1066,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:4321/publication_orig/conference-paper/</link>
+      <link>https://laubach.github.io/publication_orig/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication_orig/conference-paper/</guid>
+      <guid>https://laubach.github.io/publication_orig/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

@@ -2,238 +2,238 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/event/example/</loc>
+    <loc>https://laubach.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/event/</loc>
+    <loc>https://laubach.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://laubach.github.io/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/mhp/</loc>
+    <loc>https://laubach.github.io/project/mhp/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/mhp/</loc>
+    <loc>https://laubach.github.io/tags/mhp/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>https://laubach.github.io/project/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://laubach.github.io/tags/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/projects/</loc>
+    <loc>https://laubach.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/research/</loc>
+    <loc>https://laubach.github.io/research/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/get-started/</loc>
+    <loc>https://laubach.github.io/post_not_using/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/academic/</loc>
+    <loc>https://laubach.github.io/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/</loc>
+    <loc>https://laubach.github.io/post_not_using/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo-blox/</loc>
+    <loc>https://laubach.github.io/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/markdown/</loc>
+    <loc>https://laubach.github.io/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo/</loc>
+    <loc>https://laubach.github.io/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project_orig/pandas/</loc>
+    <loc>https://laubach.github.io/project_orig/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project_orig/</loc>
+    <loc>https://laubach.github.io/project_orig/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project_orig/pytorch/</loc>
+    <loc>https://laubach.github.io/project_orig/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project_orig/scikit/</loc>
+    <loc>https://laubach.github.io/project_orig/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/second-brain/</loc>
+    <loc>https://laubach.github.io/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/wowchemy/</loc>
+    <loc>https://laubach.github.io/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/second-brain/</loc>
+    <loc>https://laubach.github.io/post_not_using/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/data-visualization/</loc>
+    <loc>https://laubach.github.io/post_not_using/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/teach-courses/</loc>
+    <loc>https://laubach.github.io/post_not_using/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/experience_not_using/</loc>
+    <loc>https://laubach.github.io/experience_not_using/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo-blox-builder/</loc>
+    <loc>https://laubach.github.io/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/javascript/</loc>
+    <loc>https://laubach.github.io/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching_orig/js/</loc>
+    <loc>https://laubach.github.io/teaching_orig/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching_orig/python/</loc>
+    <loc>https://laubach.github.io/teaching_orig/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/python/</loc>
+    <loc>https://laubach.github.io/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching_orig/</loc>
+    <loc>https://laubach.github.io/teaching_orig/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/project-management/</loc>
+    <loc>https://laubach.github.io/post_not_using/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/early_life_soc_dna_meth_cort_hy/</loc>
+    <loc>https://laubach.github.io/publication/early_life_soc_dna_meth_cort_hy/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/</loc>
+    <loc>https://laubach.github.io/publication/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/causal_inference/</loc>
+    <loc>https://laubach.github.io/publication/causal_inference/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post_not_using/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://laubach.github.io/post_not_using/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/plot/</loc>
+    <loc>https://laubach.github.io/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/r-markdown/</loc>
+    <loc>https://laubach.github.io/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/regression/</loc>
+    <loc>https://laubach.github.io/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/3/</loc>
+    <loc>https://laubach.github.io/publication_types/3/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/</loc>
+    <loc>https://laubach.github.io/publication_types/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/source-themes/</loc>
+    <loc>https://laubach.github.io/tags/source-themes/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/t_gondii_boldness/</loc>
+    <loc>https://laubach.github.io/publication/t_gondii_boldness/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/2/</loc>
+    <loc>https://laubach.github.io/publication_types/2/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/laubach_et_al_mec_2019/</loc>
+    <loc>https://laubach.github.io/publication/laubach_et_al_mec_2019/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/early_life_experience/</loc>
+    <loc>https://laubach.github.io/project/early_life_experience/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/t.-gondii/</loc>
+    <loc>https://laubach.github.io/tags/t.-gondii/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/toxo_gondii/</loc>
+    <loc>https://laubach.github.io/project/toxo_gondii/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_orig/preprint/</loc>
+    <loc>https://laubach.github.io/publication_orig/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/article/</loc>
+    <loc>https://laubach.github.io/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/large-language-models/</loc>
+    <loc>https://laubach.github.io/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_orig/</loc>
+    <loc>https://laubach.github.io/publication_orig/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/laubach_et_al_bio_rev_2018/</loc>
+    <loc>https://laubach.github.io/publication/laubach_et_al_bio_rev_2018/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_orig/journal-article/</loc>
+    <loc>https://laubach.github.io/publication_orig/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/article-journal/</loc>
+    <loc>https://laubach.github.io/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_orig/conference-paper/</loc>
+    <loc>https://laubach.github.io/publication_orig/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/paper-conference/</loc>
+    <loc>https://laubach.github.io/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/deia/</loc>
+    <loc>https://laubach.github.io/deia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching/</loc>
+    <loc>https://laubach.github.io/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
