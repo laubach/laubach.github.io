@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life History, Trade-Offs | Zach Laubach</title>
+    <link>http://localhost:4321/tags/life-history-trade-offs/</link>
+      <atom:link href="http://localhost:4321/tags/life-history-trade-offs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life History, Trade-Offs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Life History, Trade-Offs</title>
+      <link>http://localhost:4321/tags/life-history-trade-offs/</link>
+    </image>
+    
+    <item>
+      <title>Socioecological determinants of life history traits and fitness</title>
+      <link>http://localhost:4321/project/life_history/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/life_history/</guid>
+      <description>&lt;p&gt;Currently, I am working to understand how various socioecological factors influence the relationships between life history traits and reproductive success. Using a tractable system of wild barn swallows, I am testing the differential allocation and differential acquisition hypotheses to determine if nestling trait development is subject to constraints that require trade-offs or whether differences in resource access is a primary driver of trait variation. In adult barn swallows, I am using social network methods to understand if patterns of affiliation within and outside of social pair bonds are associated with reproductive success. The significance of this work is the ability to empirically test the well-developed predictions from life-history theory in a wild animal system subject natural selection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptation, Phenotypic Plasticity | Zach Laubach</title>
+    <link>http://localhost:4321/tags/adaptation-phenotypic-plasticity/</link>
+      <atom:link href="http://localhost:4321/tags/adaptation-phenotypic-plasticity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adaptation, Phenotypic Plasticity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Adaptation, Phenotypic Plasticity</title>
+      <link>http://localhost:4321/tags/adaptation-phenotypic-plasticity/</link>
+    </image>
+    
+    <item>
+      <title>Animal responses to changing envirnoments and fitness consequences</title>
+      <link>http://localhost:4321/project/adaptation_plasticity/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/adaptation_plasticity/</guid>
+      <description>&lt;p&gt;An area of research that I am developing involves understanding animal responses to changing environments by leveraging the long-term data from the MHP. A rapid increase in urbanization occurring in part of our study cite has exposed hyenas to multiple changes in the selection pressures that differ from those in a natural environment characterized by high lion density and fleet ungulates as primary food sources. As urbanization progresses, competition and death from lions subside and a readily available source of food is easily caught livestock and/or human refuse. I am proposing to test several hypotheses that suggest the release from historic selection pressures across the urbanization gradient affects the phenotype and fitness of hyenas. The significance of this work lies in the ability to disentangle whether trait variation in response to environmental change is driven by evolutionary processes, phenotypic plasticity or both.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
